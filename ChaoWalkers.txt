@@ -1,0 +1,33 @@
+0	Root node
+1	Mech's Arms + Legs node (Parent)
+2	Mech's Right Arm
+3	Mech's Left Foot node (base)
+4	Mech's Left Foot node (heel)
+5	Mech's Left Foot node (toe)
+6	Mech's Left Arm
+7	Mech's Right Foot node (base)
+8	Mech's Right Foot node (heel)
+9	Mech's Right Foot node (toe)
+10	Mech's Chest node (parent)
+11	Lock-on Laser node
+12	Floating ball node
+13	Cannon shot node
+14	Pilot's root node
+15	Pilot's chest node
+16	Pilot's Arms node (Parent)
+17	Pilot's Left Arm node (Parent)
+18	Pilot's Left Arm node (base)
+19	Pilot's Left Arm node (elbow)
+20	Pilot's Left Arm node (wrist)
+21	Pilot's Left hand node (Parent)
+22	Pilot's Left hand
+23	Pilot's Right arm node (Parent)
+24	Pilot's Right arm node (base)
+25	Pilot's Right arm node (elbow)
+26	Pilot's Right arm node (wrist)
+27	Pilot's Right hand node (Parent)
+28	Pilot's Right hand
+29	Pilot's Face node (Parent)
+30	Pilot's Face node (Parent 2)
+31	Pilot's Head
+32	Pilot's Face node (Parent 3)

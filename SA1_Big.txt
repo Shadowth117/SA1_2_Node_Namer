@@ -1,0 +1,73 @@
+0	Root node
+1	
+2	
+3	Right Leg (Parent)
+4	
+5	
+6	
+7	Right Heel
+8	Right Toe
+9	Right Calf
+10	Right Thigh
+11	Left Leg (Parent)
+12	
+13	
+14	
+15	Left Calf
+16	Left Heel
+17	Left Toe
+18	Left Thigh
+19	Tail (Parent)
+20	
+21	
+22	Tail
+23	Stomach (Below the Belt)
+24	
+25	
+26	
+27	Right Arm (Parent)
+28	
+29	
+30	
+31	
+32	Right Wrist
+33	Right Palm
+34	Right Fingers
+35	Right Thumb
+36	Right Elbow
+37	Right Bicep
+38	Left Arm (Parent)
+39	
+40	
+41	
+42	
+43	Left Palm
+44	Left Fingers
+45	Left Thumb
+46	Fishing Rod
+47	Fishing Rod Reel
+48	Fishing Rod Reel Handle
+49	Left Wrist
+50	Left Elbow
+51	Left Bicep
+52	
+53	
+54	
+55	
+56	
+57	
+58	Face (Parent)
+59	
+60	
+61	Jaw
+62	Head
+63	Right Eye
+64	Left Eye
+65	Right Iris
+66	Left Iris
+67	Right Whiskers
+68	Left Whiskers
+69	
+70	Chest
+71	Belt Buckle
+72	Loose Belt Flap

@@ -1,0 +1,77 @@
+0	Root node
+1	
+2	
+3	Right Leg (Parent)
+4	
+5	
+6	
+7	
+8	Right Calf
+9	Right Leg Wheel Hub
+10	Right Leg Wheel
+11	Right Heel
+12	Right Toe
+13	Right Knee
+14	Right Thigh
+15	Left Leg (Parent)
+16	
+17	
+18	
+19	
+20	Left Calf
+21	Left Leg Wheel Hub
+22	Left Leg Wheel
+23	Left Heel
+24	Left Toe
+25	Left Knee
+26	Left Thigh
+27	
+28	
+29	
+30	Chest
+31	Right Arm (Parent)
+32	
+33	
+34	
+35	
+36	Gun
+37	Gun Handle
+38	Right Elbow
+39	Right Bicep
+40	Left Arm (Parent)
+41	
+42	
+43	
+44	
+45	Left Wrist
+46	Left Palm
+47	Left Fingers
+48	Left Thumb
+49	Left Elbow
+50	Left Bicep
+51	Face (Parent)
+52	
+53	
+54	Head
+55	Left Eye
+56	Right Eye with "nose" markings
+57	Lower Chest
+58	
+59	
+60	
+61	
+62	
+63	
+64	
+65	
+66	
+67	
+68	
+69	
+70	
+71	
+72	
+73	Exhaust Belt
+74	Metallic Flap
+75	Headlight Base
+76	Headlight

@@ -1,0 +1,68 @@
+0	Root node
+1	
+2	
+3	
+4	Face (Parent)
+5	
+6	
+7	Head
+8	Right Eye
+9	Left Eye
+10	Right Arm (Parent)
+11	
+12	
+13	
+14	
+15	Right Wrist
+16	Right Palm
+17	Right Fingers
+18	Right Thumb
+19	Right Elbow
+20	Right Bicep
+21	Left Arm (Parent)
+22	
+23	
+24	
+25	
+26	Left Wrist
+27	Left Palm
+28	Left Fingers
+29	Left Thumb
+30	Left Elbow
+31	Left Bicep
+32	Right Leg (Parent)
+33	
+34	
+35	
+36	
+37	Right Calf
+38	Right Heel
+39	Right Toe
+40	Right Knee
+41	Right Thigh
+42	Left Leg (Parent)
+43	
+44	
+45	
+46	
+47	Left Calf
+48	Left Heel
+49	Left Toe
+50	Left Knee
+51	Left Thigh
+52	
+53	
+54	
+55	
+56	
+57	
+58	Chest
+59	Right Tail (Parent)
+60	
+61	
+62	Right Tail
+63	Left Tail (Parent)
+64	
+65	
+66	Left Tail
+67
