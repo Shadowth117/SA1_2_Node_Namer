@@ -37,7 +37,7 @@ fn SkelImport aqnFile =
 	--Adjust bones
 	for o in objects do
 	(
-		if(o.parent != undefined or o.children.count > 0) then
+		if(o.parent != undefined or o.children.count > 0 and i <= nodeNames.count) then
 		(
 			o.name = nodeNames[i]
 		)
